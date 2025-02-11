@@ -141,31 +141,31 @@ gsap.to('.category > li:last-child', {
 //   },
 // });
 
-gsap.to('span.sec03-txt-01', {
-  xPercent: -400,
-  opacity: 1,
-  delay: 1,
-  duration: 5,
-  scrollTrigger: {
-    trigger: '.sec03',
-    start: 'top 200px',
-    end: 'bottom bottom',
-    scrub: true,
-  },
-});
+// gsap.to('span.sec03-txt-01', {
+//   xPercent: -350,
+//   opacity: 1,
+//   delay: 1,
+//   duration: 5,
+//   scrollTrigger: {
+//     trigger: '.sec03',
+//     start: 'top 200px',
+//     end: 'bottom bottom',
+//     scrub: true,
+//   },
+// });
 
-gsap.to('span.sec03-txt-02', {
-  xPercent: -300,
-  opacity: 1,
-  delay: 1,
-  duration: 5,
-  scrollTrigger: {
-    trigger: '.sec03',
-    start: 'top center',
-    end: 'bottom bottom',
-    scrub: true,
-  },
-});
+// gsap.to('span.sec03-txt-02', {
+//   xPercent: -300,
+//   opacity: 1,
+//   delay: 1,
+//   duration: 5,
+//   scrollTrigger: {
+//     trigger: '.sec03',
+//     start: 'top center',
+//     end: 'bottom bottom',
+//     scrub: true,
+//   },
+// });
 
 // gsap.to('span.sec03-txt-03', {
 //   xPercent: -110,
@@ -196,7 +196,7 @@ gsap.to('span.sec03-txt-02', {
 // sec03
 
 
-gsap.to('.leopard-cir-goto', {
+/*gsap.to('.leopard-cir-goto', {
   yPercent: -1000, // y축 방향으로 이동
   duration: 0.5,
   // ease: 'power1.out',
@@ -208,7 +208,7 @@ gsap.to('.leopard-cir-goto', {
     end: 'bottom bottom',
     scrub: 1,
   },
-});
+});*/
 
 
 gsap.to('button > img', {

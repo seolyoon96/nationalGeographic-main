@@ -537,7 +537,7 @@ legend {
   position: absolute;
   top: 50%;
   left: 0;
-  transform: translate(300%, -35%);
+  transform: translate(0%, -35%);
   z-index: 1001;
 }
 #main .sec03 span.sec03-txt-02 {
@@ -549,7 +549,7 @@ legend {
 #main .sec04 .container1 {
   position: relative;
   width: 1200px;
-  height: 750px;
+  height: 1000px;
   margin: 270px auto 100px 60px;
 }
 #main .sec04 .container1 .leopard-cir-goto {
